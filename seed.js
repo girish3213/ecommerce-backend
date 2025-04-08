@@ -23,7 +23,7 @@ const products = [
     isOnSale: getRandomBoolean(),
     isBestSeller: getRandomBoolean(),
     category: "Shoes",
-    quantity:0
+    quantity:10
   },
   {
     name: "Pique Biker Jacket",
